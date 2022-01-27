@@ -1,5 +1,7 @@
 # jpa03-jacksoncooper
 
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-jacksoncooper/branch/master/graph/badge.svg?token=HRYTODasWu)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-jacksoncooper)
+
 Storybook is here:
 
 - Production: <https://ucsb-cs156-w22.github.io/jpa03-jacksoncooper-docs/storybook>
