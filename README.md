@@ -2,10 +2,13 @@
 
 🐸 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-jacksoncooper/branch/master/graph/badge.svg?token=HRYTODasWu)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-jacksoncooper)
 
-Storybook is here:
+Services:
 
-- Production: <https://ucsb-cs156-w22.github.io/jpa03-jacksoncooper-docs/storybook>
-- QA: <https://ucsb-cs156-w22.github.io/jpa03-jacksoncooper-docs-qa/storybook>
+- github.com: <https://github.com/ucsb-cs156-w22/jpa03-jacksoncooper>
+- herokuapp.com: <https://jpa03-jacksoncooper.herokuapp.com>
+- codecov.io: <https://app.codecov.io/gh/ucsb-cs156-w22/jpa03-jacksoncooper>
+- storybook.js.org: <https://ucsb-cs156-w22.github.io/jpa03-jacksoncooper-docs/storybook>
+- storybook.js.org-qa: <https://ucsb-cs156-w22.github.io/jpa03-jacksoncooper-docs-qa/storybook>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
